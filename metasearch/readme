@@ -1,0 +1,10 @@
+
+   The folder contains all the classes required for a sample implemention of Assignment Two 
+for the MetaSearch project.  These classes are organized into a package "metasearch".
+
+   To build the application, go to the folder that contains the metasearch package and do: 
+javac metasearch/*.java to compile all the classes.
+
+   
+   To test the application, either do: java metasearch.MetaSearch or 
+java metasearch.MetaSearchDemo.
